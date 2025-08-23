@@ -1,0 +1,11 @@
+Cypress
+- Framework de automação para API e Web, em JavaScript
+- Não requer um Framework de Teste de Unidade (engine interno)
+- Executa os testes dentro do navegador (browser) --> maior desempenho
+- Alto desempenho (até 10x, comparando com outros frameworks)
+---> Apenas em aplicações com arquitetura SPA (Single Page Application)
+- Concorrentes Principais: Selenium WebDriver, Playwright, Robot Framework
+
+Para instalar:
+npm i cypress --save-dev
+npx cypress verify
