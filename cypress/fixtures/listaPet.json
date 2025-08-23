@@ -1,0 +1,34 @@
+[
+    {
+        "id": 173312202,
+        "category": {
+            "id": 1,
+            "name": "dog"
+        },
+        "name": "bob",
+        "photoUrls": [],
+        "tags": [
+            {
+            "id": 1,
+            "name": "vaccinated"
+            }
+        ],
+        "status": "available"
+    },
+    {
+        "id": 173312203,
+        "category": {
+            "id": 1,
+            "name": "dog"
+        },
+        "name": "rex",
+        "photoUrls": [],
+        "tags": [
+            {
+            "id": 1,
+            "name": "vaccinated"
+            }
+        ],
+        "status": "available"
+    }
+]
